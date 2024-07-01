@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Tachiyomi: Komik Cast",
+        "pkg": "eu.kanade.tachiyomi.revived.id.komikcast",
+        "apk": "tachiyomi-id.komikcast-revived-v1.4.52.apk",
+        "lang": "id",
+        "code": 52,
+        "version": "1.4.52",
+        "nsfw": 0,
+        "hasReadme": 1,
+        "hasChangelog": 0,
+        "sources": [
+          {
+            "name": "Komik Cast",
+            "lang": "id",
+            "id": "972717448578983812",
+            "baseUrl": "https://komikcast.moe",
+            "versionId": 1,
+            "hasCloudflare": 1
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: Shinigami",
+        "pkg": "eu.kanade.tachiyomi.revived.id.shinigami",
+        "apk": "tachiyomi-id.shinigami-revived-v1.4.41.apk",
+        "lang": "id",
+        "code": 41,
+        "version": "1.4.41",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+          {
+            "name": "Shinigami",
+            "lang": "id",
+            "id": "3411809758861089969",
+            "baseUrl": "https://shinigamitoon.app",
+            "versionId": 1,
+            "hasCloudflare": 1
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: DuniaKomik.id",
+        "pkg": "eu.kanade.tachiyomi.revived.id.duniakomikid",
+        "apk": "tachiyomi-id.duniakomikid-revived-v1.4.29.apk",
+        "lang": "id",
+        "code": 29,
+        "version": "1.4.29",
+        "nsfw": 0,
+        "hasReadme": 1,
+        "hasChangelog": 0,
+        "sources": [
+          {
+            "name": "DuniaKomik.id",
+            "lang": "id",
+            "id": "5116016453099684810",
+            "baseUrl": "https://duniakomik.org",
+            "versionId": 1,
+            "hasCloudflare": 1
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: Komikid",
+        "pkg": "eu.kanade.tachiyomi.revived.id.komikid",
+        "apk": "tachiyomi-id.komikid-revived-v1.4.6.apk",
+        "lang": "id",
+        "code": 6,
+        "version": "1.4.6",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+          {
+            "name": "Komikid",
+            "lang": "id",
+            "id": "4974695717580493197",
+            "baseUrl": "https://www.komikid.com",
+            "versionId": 1,
+            "hasCloudflare": 1
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: Komikid",
+        "pkg": "eu.kanade.tachiyomi.revived.id.komikid",
+        "apk": "tachiyomi-id.komikid-revived-v1.4.6.apk",
+        "lang": "id",
+        "code": 6,
+        "version": "1.4.6",
+        "nsfw": 0,
+        "hasReadme": 0,
+        "hasChangelog": 0,
+        "sources": [
+          {
+            "name": "Komikid",
+            "lang": "id",
+            "id": "4974695717580493197",
+            "baseUrl": "https://www.komikid.com",
+            "versionId": 1,
+            "hasCloudflare": 1
+          }
+        ]
+      }
+]
