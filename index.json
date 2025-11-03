@@ -22025,7 +22025,7 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.revived.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-revived-v1.4.52.apk",
+    "apk": "tachiyomi-id.komikcast-revived-v1.4.68.apk",
     "lang": "id",
     "code": 52,
     "version": "1.4.52",
@@ -22037,7 +22037,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.moe",
+        "baseUrl": "https://komikcast03.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
