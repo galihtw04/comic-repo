@@ -23348,10 +23348,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.revived.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-revived-v1.4.41.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.73-release.apk",
     "lang": "id",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 73,
+    "version": "1.4.73",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23360,7 +23360,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigamitoon.app",
+        "baseUrl": "https://shinigami.cv",
         "versionId": 1,
         "hasCloudflare": 1
       }
