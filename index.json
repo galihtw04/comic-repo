@@ -22025,10 +22025,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.revived.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-revived-v1.4.68.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.69-release.apk",
     "lang": "id",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 39,
+    "version": "1.4.69",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
